@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="C:\Users\Pusheee\Android studioProjects\Kammee\app\build\intermediates\pre-dexed\debug\support-annotations-20.0.0-a4e99bb09db83315001218d362c2ad030bbe2f2c.jar"
+        jar="C:\Program Files (x86)\Android\android-sdk\extras\android\m2repository\com\android\support\support-annotations\20.0.0\support-annotations-20.0.0.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa"/>
+    <item
+        dex="C:\Users\Pusheee\Android studioProjects\Kammee\app\build\intermediates\pre-dexed\debug\google-oauth-client-1.19.0-a65be18906fbab9097554e70fa0490f18fe4cdb1.jar"
+        jar="C:\Users\Pusheee\.gradle\caches\modules-2\files-2.1\com.google.oauth-client\google-oauth-client\1.19.0\d473a8962e14a707a3716637e4898bb2dd9643f2\google-oauth-client-1.19.0.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="d473a8962e14a707a3716637e4898bb2dd9643f2"/>
+    <item
+        dex="C:\Users\Pusheee\Android studioProjects\Kammee\app\build\intermediates\pre-dexed\debug\classes-4054b2a245f42162a30b899eb5bb550539854040.jar"
+        jar="C:\Users\Pusheee\Android studioProjects\Kammee\app\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.1.71\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="0f6d5c1ef2e982c3b7858408e3df389cf5d202da"/>
+    <item
+        dex="C:\Users\Pusheee\Android studioProjects\Kammee\app\build\intermediates\pre-dexed\debug\jsr305-1.3.9-1bd9c4d6b0311ddc3e11bba0381c2b2b8d2c51d3.jar"
+        jar="C:\Users\Pusheee\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\1.3.9\40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf\jsr305-1.3.9.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf"/>
+    <item
+        dex="C:\Users\Pusheee\Android studioProjects\Kammee\app\build\intermediates\pre-dexed\debug\jackson-core-2.1.3-d32b7fb84d35daa52abded32bfe63fdf3d9f2558.jar"
+        jar="C:\Users\Pusheee\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-core\2.1.3\f6c3aed1cdfa21b5c1737c915186ea93a95a58bd\jackson-core-2.1.3.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="f6c3aed1cdfa21b5c1737c915186ea93a95a58bd"/>
+    <item
+        dex="C:\Users\Pusheee\Android studioProjects\Kammee\app\build\intermediates\pre-dexed\debug\internal_impl-20.0.0-267044330dea579b6c000d612eec4eed57ec6291.jar"
+        jar="C:\Users\Pusheee\Android studioProjects\Kammee\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\libs\internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d"/>
+    <item
+        dex="C:\Users\Pusheee\Android studioProjects\Kammee\app\build\intermediates\pre-dexed\debug\GCM-android-endpoints-0e5065de3fef963c1482a561f3ea91988ead468c.jar"
+        jar="C:\Users\Pusheee\Android studioProjects\Kammee\GCM\build\libs\GCM-android-endpoints.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="773d4eb1a2a014a779571a62ced4c9d65e85ce19"/>
+    <item
+        dex="C:\Users\Pusheee\Android studioProjects\Kammee\app\build\intermediates\pre-dexed\debug\google-api-client-1.19.0-52b849877c01280bf7071b09c74255a372e99b1b.jar"
+        jar="C:\Users\Pusheee\.gradle\caches\modules-2\files-2.1\com.google.api-client\google-api-client\1.19.0\6a21277d9bebe267b7ddee028b241eebc756c040\google-api-client-1.19.0.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="6a21277d9bebe267b7ddee028b241eebc756c040"/>
+    <item
+        dex="C:\Users\Pusheee\Android studioProjects\Kammee\app\build\intermediates\pre-dexed\debug\classes-b04d61ed7a7dbfc0b3b6e365befa2d989334f6d2.jar"
+        jar="C:\Users\Pusheee\Android studioProjects\Kammee\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0"/>
+    <item
+        dex="C:\Users\Pusheee\Android studioProjects\Kammee\app\build\intermediates\pre-dexed\debug\google-http-client-jackson2-1.19.0-355e3bcc488117d12c6ef32232420206c95fc85b.jar"
+        jar="C:\Users\Pusheee\.gradle\caches\modules-2\files-2.1\com.google.http-client\google-http-client-jackson2\1.19.0\81dbf9795d387d5e80e55346582d5f2fb81a42eb\google-http-client-jackson2-1.19.0.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="81dbf9795d387d5e80e55346582d5f2fb81a42eb"/>
+    <item
+        dex="C:\Users\Pusheee\Android studioProjects\Kammee\app\build\intermediates\pre-dexed\debug\google-api-client-android-1.19.0-920394903a55a93d9bb4da4f8bf872fce1c7b14a.jar"
+        jar="C:\Users\Pusheee\.gradle\caches\modules-2\files-2.1\com.google.api-client\google-api-client-android\1.19.0\ba2aafb867f6af469f936ae76426cf0a280094bd\google-api-client-android-1.19.0.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="ba2aafb867f6af469f936ae76426cf0a280094bd"/>
+    <item
+        dex="C:\Users\Pusheee\Android studioProjects\Kammee\app\build\intermediates\pre-dexed\debug\google-http-client-android-1.19.0-9aa2310945346ed02ec29bd86d7a2b2c56cdfe4c.jar"
+        jar="C:\Users\Pusheee\.gradle\caches\modules-2\files-2.1\com.google.http-client\google-http-client-android\1.19.0\e3f11020c2c812112803d252d1392872d3f619c8\google-http-client-android-1.19.0.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="e3f11020c2c812112803d252d1392872d3f619c8"/>
+    <item
+        dex="C:\Users\Pusheee\Android studioProjects\Kammee\app\build\intermediates\pre-dexed\debug\guava-jdk5-13.0-4a6c85e9de30fc1834e621914ee984e029e22491.jar"
+        jar="C:\Users\Pusheee\.gradle\caches\modules-2\files-2.1\com.google.guava\guava-jdk5\13.0\381ae6c8add7c98e9bcddb1e0b898400cd6fc3f7\guava-jdk5-13.0.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="381ae6c8add7c98e9bcddb1e0b898400cd6fc3f7"/>
+    <item
+        dex="C:\Users\Pusheee\Android studioProjects\Kammee\app\build\intermediates\pre-dexed\debug\google-http-client-1.19.0-047e5ca6616f2854f1a31b6aca14c956f8358397.jar"
+        jar="C:\Users\Pusheee\.gradle\caches\modules-2\files-2.1\com.google.http-client\google-http-client\1.19.0\cdca49ad0977c040f603478aa2e16b2775c8fec6\google-http-client-1.19.0.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="cdca49ad0977c040f603478aa2e16b2775c8fec6"/>
+
+</pre-dex-items>

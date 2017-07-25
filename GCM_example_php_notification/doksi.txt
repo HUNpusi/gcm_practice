@@ -1,0 +1,7 @@
+A projekt mûködik, balazspuskas.com/gcm_test/index.php -n lehet üzenetet
+az adatbázisban levõ össze kliensre. A reg nem biztos, hogy mûködik,
+manuális insert-el ment. 
+Notification-ban mutatja az üzenetet
+
+http://www.programming-techniques.com/2014/01/google-cloud-messaging-gcm-in-android.html
+
